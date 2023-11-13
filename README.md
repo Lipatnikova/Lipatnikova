@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Anastasia Lipatnikova!
 <h3 align="left">QA Engineer</h3>
-<h3 align="center">Connect with me: <a href="https://t.me/lipatnikova_av">
+<h3 align="left">Connect with me: <a href="https://t.me/lipatnikova_av">
     <img src="https://img.shields.io/badge/Telegram-229ED9" alt="Telegram Badge"/>
   </a></h3>
 
@@ -10,4 +10,4 @@
 
 <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipatnikova" alt="Anastasia" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lipatnikova&show_icons=true&locale=en" alt="Anastasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipatnikova" alt="Anastasia" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lipatnikova" alt="Anastasia" /></p>
