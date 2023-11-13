@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Anastasia Lipatnikova!
-<h3 align="center">QA Engineer</h3>
+<h3 align="left">QA Engineer</h3>
 
-<h3 align="center">Connect with me on Telegram: <a href="https://t.me/@lipatnikova_av">
+<h3 align="left">Connect with me on Telegram: <a href="https://t.me/@lipatnikova_av">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
