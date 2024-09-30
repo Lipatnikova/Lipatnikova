@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Anastasia Lipatnikova!
-<h3 align="left">QA Engineer</h3>
+<h3 align="left">SDET: Software Development Engineer in Test</h3>
 <h3 align="left">Connect with me: <a href="https://t.me/lipatnikova_av">
     <img src="https://img.shields.io/badge/Telegram-229ED9" alt="Telegram Badge"/>
   </a></h3>
